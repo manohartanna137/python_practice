@@ -18,3 +18,4 @@ for i in range(1,1001):
         armstrong_not.append(i)
 print(armstrong_list)
 print(armstrong_not)
+
